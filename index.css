@@ -1,0 +1,40 @@
+body{
+    background-image: url("https://static.vecteezy.com/system/resources/previews/002/582/109/original/poker-purple-background-playing-card-symbols-pattern-blackjack-vector.jpg");
+    background-size: cover;
+    color: goldenrod;
+    font-family: 'Montserrat', sans-serif;
+
+}
+#tik-tik{
+    margin-top:40px;
+    margin-bottom: 0px;
+}
+main{
+    margin: 150px 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 8px 50px;
+    padding-bottom: 20px;
+    border-radius: 40px;
+    background-color: rgba(24, 3, 54, 0.678);
+    text-align: left;
+}
+
+h1{
+    font-size: 70px;
+    margin-bottom: 0px;
+}
+p{
+    font-size: 30px;
+}
+button{
+    font-family: 'Montserrat', sans-serif;
+
+    border-radius: 5px;
+    padding: 5px 15px;
+    font-size: 20px;
+    margin: 0px 30px;
+    background-color: yellow;
+    font-weight: 600;
+}
