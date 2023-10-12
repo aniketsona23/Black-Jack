@@ -10,7 +10,7 @@ body{
     margin-bottom: 0px;
 }
 main{
-    margin: 150px 400px;
+    margin: 100px 400px;
     display: flex;
     flex-direction: column;
     align-items: center;
